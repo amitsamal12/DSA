@@ -5,7 +5,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 ---
 
 ## 🏁 Challenge Start Date  
-**[01-01-2025]**
+**[13-01-2025]**
 
 # 100 Days of DSA - LeetCode Challenge 🚀  
 
